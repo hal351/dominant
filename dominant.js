@@ -60,5 +60,6 @@ function dominantSearch (chord) {
   }else if(chord === 'C'){
     return dominant[12];
   }else{
-return 'a';
+return '上記の中から入力してください。';
+}
 };
