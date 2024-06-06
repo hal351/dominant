@@ -60,5 +60,5 @@ function dominantSearch (chord) {
   }else if(chord === 'C'){
     return dominant[12];
   }else{
-return chord;
+return 'a';
 };
